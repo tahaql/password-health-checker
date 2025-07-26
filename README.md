@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-[![NPM Version](https://img.shields.io/npm/v/password-health-checker)](https://www.npmjs.com/package/password-health-checker)
+[![NPM Version](https://img.shields.io/npm/v/password-health-checker-v2)](https://www.npmjs.com/package/password-health-checker)
 
 # 🔐 Password Health Checker API
 

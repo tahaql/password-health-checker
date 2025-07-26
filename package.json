@@ -1,6 +1,6 @@
 {
-  "name": "password-health-checker",
-  "version": "1.0.0",
+  "name": "password-health-checker-v2",
+  "version": "2.0.0",
   "description": "![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-active-brightgreen) # 🔐 Password Health Checker API",
   "main": "index.js",
   "dependencies": {
