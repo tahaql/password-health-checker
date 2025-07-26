@@ -1,5 +1,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
+[![NPM Version](https://img.shields.io/npm/v/password-health-checker)](https://www.npmjs.com/package/password-health-checker)
 
 # 🔐 Password Health Checker API
 
@@ -16,3 +17,10 @@ A simple Node.js API that checks the **strength** and **security** of passwords 
 - 🧠 Give smart feedback and suggestions
 - 🛡️ Check if your password has been **pwned**
 - ⚡ Simple and fast REST API
+
+## 📦 Install via NPM
+
+Globally:
+
+```bash
+npm install -g password-health-checker

@@ -1,5 +1,5 @@
 {
-  "name": "password-checker",
+  "name": "password-health-checker",
   "version": "1.0.0",
   "description": "![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-active-brightgreen) # 🔐 Password Health Checker API",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["password", "security", "checker", "zxcvbn", "haveibeenpwned"],
+  "author": "tahaql",
+  "license": "MIT"
 }
